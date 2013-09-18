@@ -11,3 +11,16 @@ D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\obj\Debug\Chav
 D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.exe
 D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.pdb
 D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.exe.config
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.exe.config
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.exe
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.pdb
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\Chavp.Kernel.Commands.dll
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\EasyNetQ.dll
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\Newtonsoft.Json.dll
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\RabbitMQ.Client.dll
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\Chavp.Kernel.Commands.pdb
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\Newtonsoft.Json.xml
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\bin\Debug\RabbitMQ.Client.xml
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.csprojResolveAssemblyReference.cache
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.exe
+D:\projects\Git\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.pdb

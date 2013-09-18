@@ -1,9 +1,4 @@
-﻿using Chavp.Kernel.Commands;
-using ChavpKernelProcessor.Properties;
-using EasyNetQ;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace ChavpKernelProcessor
 {
+    using EasyNetQ;
+    using Newtonsoft.Json;
+    using Newtonsoft.Json.Linq;
+    using Chavp.Kernel.Commands;
+    using ChavpKernelProcessor.Properties;
+
     class Program
     {
 
@@ -47,7 +48,7 @@ namespace ChavpKernelProcessor
 
                     try
                     {
-                        var comm = JsonConvert.DeserializeObject<StatisticsRequest>(request.Command.ToLower());
+                        var comm = JsonConvert.DeserializeObject<StatisticsRequest>(request.Command);
 
                         if (comm.Command == "sum")
                         {

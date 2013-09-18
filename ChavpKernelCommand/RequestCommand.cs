@@ -1,5 +1,5 @@
-﻿using Chavp.Kernel.Commands;
-using ChavpKernelCommand.Properties;
+﻿// RequestCommand.cs
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +8,9 @@ using System.Windows.Input;
 
 namespace ChavpKernelCommand
 {
+    using Chavp.Kernel.Commands;
+    using ChavpKernelCommand.Properties;
+
     public class RequestCommand : ICommand
     {
         CommandViewModel _vm;

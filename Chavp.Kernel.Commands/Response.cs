@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿// Response.cs
+
+using System;
 
 namespace Chavp.Kernel.Commands
 {

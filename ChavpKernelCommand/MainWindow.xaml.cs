@@ -1,7 +1,4 @@
-﻿using Chavp.Kernel.Commands;
-using ChavpKernelCommand.Properties;
-using EasyNetQ;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +15,10 @@ using System.Windows.Shapes;
 
 namespace ChavpKernelCommand
 {
+    using Chavp.Kernel.Commands;
+    using ChavpKernelCommand.Properties;
+    using EasyNetQ;
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>

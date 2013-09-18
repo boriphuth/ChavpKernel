@@ -1,13 +1,12 @@
-﻿using System;
+﻿// StatisticsRequest.cs
+
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Chavp.Kernel.Commands
 {
     public struct StatisticsRequest
     {
         public string Command { get; set; }
-        public List<double> Values { get; set; }
+        public IList<double> Values { get; set; }
     }
 }

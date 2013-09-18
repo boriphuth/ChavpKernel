@@ -1,5 +1,5 @@
-﻿using Chavp.Kernel.Commands;
-using EasyNetQ;
+﻿// CommandViewModel.cs
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,6 +10,9 @@ using System.Windows.Input;
 
 namespace ChavpKernelCommand
 {
+    using Chavp.Kernel.Commands;
+    using EasyNetQ;
+
     public class CommandViewModel: INotifyPropertyChanged
     {
         private string _Command;
@@ -45,7 +48,6 @@ namespace ChavpKernelCommand
         public event PropertyChangedEventHandler PropertyChanged;
         private void RaisePropertyChanged(string propertyName)
         {
-            // take a copy to prevent thread issues
             PropertyChangedEventHandler handler = PropertyChanged;
             if (handler != null)
             {
