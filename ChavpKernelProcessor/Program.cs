@@ -47,7 +47,7 @@ namespace ChavpKernelProcessor
 
                     try
                     {
-                        var comm = JsonConvert.DeserializeObject<StatisticRequest>(request.Command.ToLower());
+                        var comm = JsonConvert.DeserializeObject<StatisticsRequest>(request.Command.ToLower());
 
                         if (comm.Command == "sum")
                         {
