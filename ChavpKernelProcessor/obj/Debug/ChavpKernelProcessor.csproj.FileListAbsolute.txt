@@ -1,0 +1,13 @@
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.exe
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.pdb
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\Chavp.Kernel.Commands.dll
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\EasyNetQ.dll
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\Newtonsoft.Json.dll
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\RabbitMQ.Client.dll
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\Chavp.Kernel.Commands.pdb
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\Newtonsoft.Json.xml
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\RabbitMQ.Client.xml
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.csprojResolveAssemblyReference.cache
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.exe
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\obj\Debug\ChavpKernelProcessor.pdb
+D:\copy\Copy\my-writing\workshop\ChavpKernel\ChavpKernelProcessor\bin\Debug\ChavpKernelProcessor.exe.config

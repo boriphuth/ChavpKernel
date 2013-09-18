@@ -1,0 +1,4 @@
+D:\copy\Copy\my-writing\workshop\ChavpKernel\Chavp.Kernel.Commands\bin\Debug\Chavp.Kernel.Commands.dll
+D:\copy\Copy\my-writing\workshop\ChavpKernel\Chavp.Kernel.Commands\bin\Debug\Chavp.Kernel.Commands.pdb
+D:\copy\Copy\my-writing\workshop\ChavpKernel\Chavp.Kernel.Commands\obj\Debug\Chavp.Kernel.Commands.dll
+D:\copy\Copy\my-writing\workshop\ChavpKernel\Chavp.Kernel.Commands\obj\Debug\Chavp.Kernel.Commands.pdb

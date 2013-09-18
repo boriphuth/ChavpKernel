@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChavpKernelCommand", "ChavpKernelCommand\ChavpKernelCommand.csproj", "{065C5258-E9FE-4885-8BAF-D6839B35FC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chavp.Kernel.Commands", "Chavp.Kernel.Commands\Chavp.Kernel.Commands.csproj", "{5D9E0299-1235-4D5D-A5B8-A43D438ADABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChavpKernelProcessor", "ChavpKernelProcessor\ChavpKernelProcessor.csproj", "{5E224E60-5CA3-4229-98B2-199DFD40A43C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065C5258-E9FE-4885-8BAF-D6839B35FC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065C5258-E9FE-4885-8BAF-D6839B35FC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065C5258-E9FE-4885-8BAF-D6839B35FC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065C5258-E9FE-4885-8BAF-D6839B35FC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9E0299-1235-4D5D-A5B8-A43D438ADABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9E0299-1235-4D5D-A5B8-A43D438ADABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9E0299-1235-4D5D-A5B8-A43D438ADABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9E0299-1235-4D5D-A5B8-A43D438ADABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E224E60-5CA3-4229-98B2-199DFD40A43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E224E60-5CA3-4229-98B2-199DFD40A43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E224E60-5CA3-4229-98B2-199DFD40A43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E224E60-5CA3-4229-98B2-199DFD40A43C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
